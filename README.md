@@ -26,4 +26,14 @@ Acessar repositório [Aula-160](https://github.com/abnersolivera/XADREZ_CONSOLE/
 * Estruturas de dados aplicado:
   * Matriz
   
-  Acessar repositório [Aula-160](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-161)
+  Acessar repositório [Aula-161](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-161)
+  
+## Aula-162
+### Começando a implementar um método que imprime o tabuleiro
+
+* Técnica de orientação a objeto aplicado:
+  * elementos estáticos
+  * Encapsulamento (método de acesso a um elemento da matriz)
+  
+  Acessar repositório [Aula-162](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-162)
+
