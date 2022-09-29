@@ -37,7 +37,7 @@ Acessar repositório [Aula-160](https://github.com/abnersolivera/XADREZ_CONSOLE/
   
   Acessar repositório [Aula-162](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-162)
   
-  ## Aula-162
+  ## Aula-163
   ### Começando a colocar peças no tabuleiro
   
   * Técnica de orientação a objeto aplicado:
@@ -45,5 +45,7 @@ Acessar repositório [Aula-160](https://github.com/abnersolivera/XADREZ_CONSOLE/
    * associações (a Peca tem um Tabuleiro, o Tabuleiro tem várias Pecas)
    * construtor
    * :base
+
+Acessar repositório [Aula-163](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-163)
   
 
