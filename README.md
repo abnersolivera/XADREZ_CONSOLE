@@ -56,3 +56,15 @@ Acessar repositório [Aula-163](https://github.com/abnersolivera/XADREZ_CONSOLE/
  * Exceções
 
 Acessar repositório [Aula-164](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-164)
+
+## Aula-165
+### Testando a exceção personalizada de tabuleiro
+
+
+* Técnicas de orientação a objetos aplicadas:
+ * Exceções
+ 
+Acessar repositório [Aula-165](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-165)
+
+
+
