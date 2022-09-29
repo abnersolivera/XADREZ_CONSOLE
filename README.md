@@ -47,5 +47,12 @@ Acessar repositório [Aula-160](https://github.com/abnersolivera/XADREZ_CONSOLE/
    * :base
 
 Acessar repositório [Aula-163](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-163)
-  
 
+## Aula-164
+### Criando uma exceção personalizada de tabuleiro
+
+* Técnicas de orientação a objetos aplicadas:
+ * Sobrecarga (obter uma peça por Posicao)
+ * Exceções
+
+Acessar repositório [Aula-164](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-164)
