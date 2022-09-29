@@ -36,4 +36,14 @@ Acessar repositório [Aula-160](https://github.com/abnersolivera/XADREZ_CONSOLE/
   * Encapsulamento (método de acesso a um elemento da matriz)
   
   Acessar repositório [Aula-162](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-162)
+  
+  ## Aula-162
+  ### Começando a colocar peças no tabuleiro
+  
+  * Técnica de orientação a objeto aplicado:
+   * herança (Rei é uma Peca, Torre é uma Peca)
+   * associações (a Peca tem um Tabuleiro, o Tabuleiro tem várias Pecas)
+   * construtor
+   * :base
+  
 
