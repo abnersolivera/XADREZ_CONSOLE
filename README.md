@@ -60,11 +60,20 @@ Acessar repositório [Aula-164](https://github.com/abnersolivera/XADREZ_CONSOLE/
 ## Aula-165
 ### Testando a exceção personalizada de tabuleiro
 
-
 * Técnicas de orientação a objetos aplicadas:
- * Exceções
+  * Exceções
  
 Acessar repositório [Aula-165](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-165)
 
+## Aula-166
+### Criando a classe PosicaoXadrez
 
+* Criamos a classe
+* Incluímos um método que a converte para Posicao
 
+* Técnicas de orientação a objetos aplicadas:
+ * Encapsulamento
+ * Construtores
+ * Sobreposição (ToString)
+
+Acessar repositório [Aula-166](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-166)
