@@ -67,6 +67,15 @@ Acessar repositório [Aula-165](https://github.com/abnersolivera/XADREZ_CONSOLE/
 
 ## Aula-166
 ### Criando a classe PosicaoXadrez
+## Aula-167
+### Melhorando a impressão do tabuleiro
+
+
+* Técnicas de orientação a objetos aplicadas:
+ * EElementos estáticos (método ImprimirPeca)
+ 
+Acessar repositório [Aula-167](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-167)
+
 
 * Criamos a classe
 * Incluímos um método que a converte para Posicao
