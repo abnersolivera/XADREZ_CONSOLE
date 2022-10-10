@@ -98,3 +98,15 @@ Acessar repositório [Aula-166](https://github.com/abnersolivera/XADREZ_CONSOLE/
  * EElementos estáticos (método ImprimirPeca)
  
 Acessar repositório [Aula-167](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-167)
+
+## Aula-168 - 169
+### Preparando o programa para teste iniciais
+
+* Classe PartidaDeXadrez
+* Começamos a implementar o método RealizarJogada
+* Delegamos a instaciação das peças para a PartidaDeXadrez
+
+* Técnicas de orientação a objetos aplicadas:
+ * Encapsulamento (método privada ColocarPecas)
+ 
+Acessar repositório [Aula-168 - 169](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-168)
