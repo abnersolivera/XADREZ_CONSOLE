@@ -67,6 +67,19 @@ Acessar repositório [Aula-165](https://github.com/abnersolivera/XADREZ_CONSOLE/
 
 ## Aula-166
 ### Criando a classe PosicaoXadrez
+
+* Criamos a classe
+* Incluímos um método que a converte para Posicao
+
+* Técnicas de orientação a objetos aplicadas:
+ * Encapsulamento
+ * Construtores
+ * Sobreposição (ToString)
+
+Acessar repositório [Aula-166](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-166)
+
+## Aula-166
+### Criando a classe PosicaoXadrez
 ## Aula-167
 ### Melhorando a impressão do tabuleiro
 
