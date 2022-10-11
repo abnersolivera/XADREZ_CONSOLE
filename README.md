@@ -110,3 +110,16 @@ Acessar repositório [Aula-167](https://github.com/abnersolivera/XADREZ_CONSOLE/
  * Encapsulamento (método privada ColocarPecas)
  
 Acessar repositório [Aula-168 - 169](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-168)
+
+## Aula-170 - 171 - 172 - 173
+### Projetando o método que diz quais movimentos possíveis de uma peça
+
+* Técnicas de orientação a objetos aplicadas:
+ * Classe abstrata
+ * Herança
+ * Sobreposição (movimentosPossiveis) 
+
+* Estrutura de dados aplicadas:
+ * Matriz
+ 
+Acessar repositório [Aula-170 - 171 - 172 - 173](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-170)
