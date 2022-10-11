@@ -115,11 +115,16 @@ Acessar repositório [Aula-168 - 169](https://github.com/abnersolivera/XADREZ_CO
 ### Projetando o método que diz quais movimentos possíveis de uma peça
 
 * Técnicas de orientação a objetos aplicadas:
- * Classe abstrata
- * Herança
- * Sobreposição (movimentosPossiveis) 
+  * Classe abstrata
+  * Herança
+  * Sobreposição (movimentosPossiveis)
+  * Sobrecarga (ImprimirTabuleiro)
 
 * Estrutura de dados aplicadas:
- * Matriz
+  * Matriz
  
+* Melhorado o ImprimirTabuleiro (deixando ele mais enxuto)
+* Melhorado o ImprimirPeca
+* Melhorado o programa principal
+
 Acessar repositório [Aula-170 - 171 - 172 - 173](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-170)
