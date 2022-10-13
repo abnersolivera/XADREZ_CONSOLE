@@ -130,7 +130,7 @@ Acessar repositório [Aula-168 - 169](https://github.com/abnersolivera/XADREZ_CO
 Acessar repositório [Aula-170 - 171 - 172 - 173](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-170)
 
 ## Aula-174 - 175 - 176
-### Passando o turno | Validando a posição de origem | Validando a posição de
+### Passando o turno | Validando a posição de origem | Validando a posição de destino
 
 * Começamos o método RealizarJogada
 * Aplicação informando o turno e jogador atual
@@ -147,7 +147,21 @@ Acessar repositório [Aula-170 - 171 - 172 - 173](https://github.com/abnersolive
 * Estrutura de dados aplicadas:
   * Matriz
 
- 
+Acessar repositório [Aula-174-175-176](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-174)
+
+## Aula-177 - 178
+### Implementando um controle de peças capturadas | Testando o controle de peças capturadas
+
+* Método ColocarNovaPeca (PartidaDeXadrez)
+* Atualizamos o método ExecutaMovimento (PartidaDeXadrez)
+* Método: PecasCapturadas e PecasEmJogo
+* Método ImprimirPartida e ImprimirConjunto (Tela)
 
 
-Acessar repositório [Aula-174](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-174)
+* Técnicas de orientação a objetos aplicadas:
+  * Elementos estáticos
+
+* Estrutura de dados aplicadas:
+  * Conjuntos
+
+Acessar repositório [Aula-177-178](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-177)
