@@ -128,3 +128,26 @@ Acessar repositório [Aula-168 - 169](https://github.com/abnersolivera/XADREZ_CO
 * Melhorado o programa principal
 
 Acessar repositório [Aula-170 - 171 - 172 - 173](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-170)
+
+## Aula-174 - 175 - 176
+### Passando o turno | Validando a posição de origem | Validando a posição de
+
+* Começamos o método RealizarJogada
+* Aplicação informando o turno e jogador atual
+* Método ExisteMovimentosPossiveis(Peca)
+* Método ValidarPosicaoDeOrigem (PartidaDeXadrez)
+* Tratamento de exceções no programa principal
+* Método PodeMoverPara (Peca)
+* Método ValidarPosicaoDeDestino (PartidaDeXadrez)
+
+* Técnicas de orientação a objetos aplicadas:
+  * Encapsulamento (mudamos as restrições de acesso de alguns atributos)
+  * Exceções
+
+* Estrutura de dados aplicadas:
+  * Matriz
+
+ 
+
+
+Acessar repositório [Aula-174](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-174)
