@@ -166,8 +166,8 @@ Acessar repositório [Aula-174-175-176](https://github.com/abnersolivera/XADREZ_
 
 Acessar repositório [Aula-177-178](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-177)
 
-## Aula-179
-### Implementando a lógica de xeque
+## Aula-179 - 180
+### Implementando a lógica de xeque | Testando a lógica de xeque
 
 * Método de PartidaDeXadrez: EstaEmXeque, DefazMovimento
 * Atualização do método realiza Jogada (PartidaDeXadrez)
@@ -177,8 +177,9 @@ Acessar repositório [Aula-177-178](https://github.com/abnersolivera/XADREZ_CONS
 * Técnicas de orientação a objetos aplicadas:
   * Encapsulamento
   * Novo: operador "is"
+  * Exceções
 
 * Estrutura de dados aplicadas:
   * Matriz
 
-Acessar repositório [Aula-179](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-17+)
+Acessar repositório [Aula-179](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-179)

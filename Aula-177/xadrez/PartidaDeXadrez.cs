@@ -96,7 +96,7 @@ namespace xadrez
         public HashSet<Peca> PecasEmJogo(Cor cor)
         {
             HashSet<Peca> aux = new HashSet<Peca>();
-            foreach (Peca x in Capturadas)
+            foreach (Peca x in Pecas)
             {
                 if (x.Cor == cor)
                 {
@@ -108,7 +108,6 @@ namespace xadrez
 
             return aux;
         }
-
 
         public void ColocarNovaPeca(char coluna, int linha, Peca peca)
         {

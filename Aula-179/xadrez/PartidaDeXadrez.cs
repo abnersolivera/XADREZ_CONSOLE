@@ -48,17 +48,20 @@ namespace xadrez
                 Capturadas.Remove(pecaCapturada);
             }
             Tab.ColocarPeca(p, origem);
-            
+
         }
 
         public void RealizaJogada(Posicao origem, Posicao destino)
         {
             Peca pecaCapturada = ExecutaMovimento(origem, destino);
+
             if (EstaEmXeque(JogadorAtual))
             {
                 DesfazMovimentos(origem, destino, pecaCapturada);
                 throw new TabuleiroException("Você não pode se colocar em xeque!");
             }
+
+            Peca p = Tab.Peca(destino);
 
             if (EstaEmXeque(Adversaria(JogadorAtual)))
             {
@@ -92,6 +95,14 @@ namespace xadrez
 
         public void ValidarPosicaoDestino(Posicao origem, Posicao destino)
         {
+            //Vereficar
+            /*
+                if (!tab.peca(origem).movimentoPossivel(destino)) 
+                {
+                    throw new TabuleiroException("Posição de destino inválida!");
+                }
+             */
+
             if (!Tab.Peca(origem).PodeMoverPara(destino))
             {
                 throw new TabuleiroException("Posição de destino inválida!");
@@ -126,7 +137,7 @@ namespace xadrez
         public HashSet<Peca> PecasEmJogo(Cor cor)
         {
             HashSet<Peca> aux = new HashSet<Peca>();
-            foreach (Peca x in Capturadas)
+            foreach (Peca x in Pecas)
             {
                 if (x.Cor == cor)
                 {
@@ -153,6 +164,7 @@ namespace xadrez
 
         private Peca Rei(Cor cor)
         {
+            var a = PecasEmJogo(cor);
             foreach (Peca x in PecasEmJogo(cor))
             {
                 if (x is Rei)
@@ -168,8 +180,9 @@ namespace xadrez
             Peca r = Rei(cor);
 
             if (r == null)
+            {
                 throw new TabuleiroException("Não tem rei da cor " + cor + " no tabuleiro!");
-
+            }
             foreach (Peca x in PecasEmJogo(Adversaria(cor)))
             {
                 bool[,] mat = x.MovimentosPossiveis();
@@ -187,6 +200,7 @@ namespace xadrez
 
             Pecas.Add(peca);
         }
+
         private void ColocarPecas()
         {
 
