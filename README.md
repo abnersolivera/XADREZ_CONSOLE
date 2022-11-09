@@ -182,4 +182,24 @@ Acessar repositório [Aula-177-178](https://github.com/abnersolivera/XADREZ_CONS
 * Estrutura de dados aplicadas:
   * Matriz
 
-Acessar repositório [Aula-179](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-179)
+Acessar repositório [Aula-179-180](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-179)
+
+## Aula-181 - 182
+### Implementando a lógica de xequemate - Testando a lógica de xequemate
+
+* Método de PartidaDeXadrez: EstaEmXeque, DefazMovimento
+* Atualização do método realiza Jogada (PartidaDeXadrez)
+* Método DecrementarQteMovimentos (Peca)
+* Método TesteXequemate (PartidaDeXadrez)
+* Adaptações na aplicação para mostrar o xequemate
+* Correção no método TesteXequeMate
+
+* Técnicas de orientação a objetos aplicadas:
+  * Encapsulamento
+  * Novo: operador "is"
+  * Exceções
+
+* Estrutura de dados aplicadas:
+  * Matriz
+
+Acessar repositório [Aula-181-182](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-181)
