@@ -184,8 +184,8 @@ Acessar repositório [Aula-177-178](https://github.com/abnersolivera/XADREZ_CONS
 
 Acessar repositório [Aula-179-180](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-179)
 
-## Aula-181 - 182
-### Implementando a lógica de xequemate - Testando a lógica de xequemate
+## Aula-181 - 182 - 183
+### Implementando a lógica de xequemate - Testando a lógica de xequemate - Correção - renomenado o método para MovimentoPossivel
 
 * Método de PartidaDeXadrez: EstaEmXeque, DefazMovimento
 * Atualização do método realiza Jogada (PartidaDeXadrez)
@@ -193,6 +193,7 @@ Acessar repositório [Aula-179-180](https://github.com/abnersolivera/XADREZ_CONS
 * Método TesteXequemate (PartidaDeXadrez)
 * Adaptações na aplicação para mostrar o xequemate
 * Correção no método TesteXequeMate
+* Trocado o nome do método "PodeMoverPara" para "MovimentoPossivel" com o objetivo de evitar confusão com o método "PodeMover"
 
 * Técnicas de orientação a objetos aplicadas:
   * Encapsulamento
@@ -202,4 +203,4 @@ Acessar repositório [Aula-179-180](https://github.com/abnersolivera/XADREZ_CONS
 * Estrutura de dados aplicadas:
   * Matriz
 
-Acessar repositório [Aula-181-182](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-181)
+Acessar repositório [Aula-181-182-183](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-181)
