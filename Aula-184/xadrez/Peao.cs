@@ -23,7 +23,7 @@ class Peao : Peca
 
     private bool Livre(Posicao pos)
     {
-        return Tab.Peca(pos).Equals(null);
+        return Tab.Peca(pos) == null;
     }
 
     public override bool[,] MovimentosPossiveis()
