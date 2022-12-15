@@ -208,20 +208,6 @@ Acessar repositório [Aula-181-182-183](https://github.com/abnersolivera/XADREZ_
 ## Aula-184
 ### Implementando as demas peças
 
-* Método de PartidaDeXadrez: EstaEmXeque, DefazMovimento
-* Atualização do método realiza Jogada (PartidaDeXadrez)
-* Método DecrementarQteMovimentos (Peca)
-* Método TesteXequemate (PartidaDeXadrez)
-* Adaptações na aplicação para mostrar o xequemate
-* Correção no método TesteXequeMate
-* Trocado o nome do método "PodeMoverPara" para "MovimentoPossivel" com o objetivo de evitar confusão com o método "PodeMover"
-
-* Técnicas de orientação a objetos aplicadas:
-  * Encapsulamento
-  * Novo: operador "is"
-  * Exceções
-
-* Estrutura de dados aplicadas:
-  * Matriz
+* Implementando as demais peças do tabuleiro
 
 Acessar repositório [Aula-184](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-184)
