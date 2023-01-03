@@ -211,3 +211,20 @@ Acessar repositório [Aula-181-182-183](https://github.com/abnersolivera/XADREZ_
 * Implementando as demais peças do tabuleiro
 
 Acessar repositório [Aula-184](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-184)
+
+## Aula-185 - 186 - 187
+### Começando a implementar a jogada especial roque pequeno - Começando a implementar a jogada especial roque grande - Complementando as jogadas especiais roque peque e roque grande
+
+* Atualizado os métodos:
+  * ExecutaMovimento
+  * DesfazMovimento
+
+* Técnicas de orientação a objetos aplicadas:
+  * Associações (Rei associado com a PartidaDeXadrez)
+  * Construtores (Rei recebendo a partida como argumento do construtor)
+  * Encapsulamento (método privativo)
+
+* Estrutura de dados aplicadas:
+  * Matriz
+
+Acessar repositório [Aula-185-186](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-185)
