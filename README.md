@@ -225,8 +225,8 @@ Acessar repositório [Aula-181-182-183](https://github.com/abnersolivera/XADREZ_
 
 Acessar repositório [Aula-185-186-187-188](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-185)
 
-## Aula-189 - 190 - 191
-### Começando a implementar a jogada especial en passant
+## Aula-189 - 190 - 191 - 192 -193
+### Começando a implementar a jogada especial en passant - Joga especial promoção
 
 * Atualizado os métodos:
   * Implementando um controle para informar que um peão que moveu a primeira vez está vulnerável a tomar um en passsant
@@ -234,10 +234,11 @@ Acessar repositório [Aula-185-186-187-188](https://github.com/abnersolivera/XAD
   * Atualizado o método movimentosPossiveis da classe Peao
   * executaMovimento
   * defazMovimento
+  * Atualizado o método realizaJogada (PartidaDeXadrez)
 
 
 
 * Estruturas de dados aplicadas:
   * Matriz
 
-Acessar repositório [Aula-189-190-191](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-189)
+Acessar repositório [Aula-189-190-191-192-193](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-189)
