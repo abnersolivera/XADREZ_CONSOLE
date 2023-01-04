@@ -205,14 +205,10 @@ Acessar repositório [Aula-179-180](https://github.com/abnersolivera/XADREZ_CONS
 
 Acessar repositório [Aula-181-182-183](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-181)
 
-## Aula-184
-### Implementando as demas peças
 
-* Implementando as demais peças do tabuleiro
 
-Acessar repositório [Aula-184](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-184)
 
-## Aula-185 - 186 - 187
+## Aula-185 - 186 - 187 - 188
 ### Começando a implementar a jogada especial roque pequeno - Começando a implementar a jogada especial roque grande - Complementando as jogadas especiais roque peque e roque grande
 
 * Atualizado os métodos:
@@ -227,4 +223,21 @@ Acessar repositório [Aula-184](https://github.com/abnersolivera/XADREZ_CONSOLE/
 * Estrutura de dados aplicadas:
   * Matriz
 
-Acessar repositório [Aula-185-186](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-185)
+Acessar repositório [Aula-185-186-187-188](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-185)
+
+## Aula-189 - 190 - 191
+### Começando a implementar a jogada especial en passant
+
+* Atualizado os métodos:
+  * Implementando um controle para informar que um peão que moveu a primeira vez está vulnerável a tomar um en passsant
+  * Atualizado o método realizaJogada
+  * Atualizado o método movimentosPossiveis da classe Peao
+  * executaMovimento
+  * defazMovimento
+
+
+
+* Estruturas de dados aplicadas:
+  * Matriz
+
+Acessar repositório [Aula-189-190-191](https://github.com/abnersolivera/XADREZ_CONSOLE/tree/main/Aula-189)
